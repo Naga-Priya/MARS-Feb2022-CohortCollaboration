@@ -1,6 +1,6 @@
 import React from 'react';
 import img from '../../images/Naga_Priya_Img_2.png';
-
+//Comment on June 28th
 function AboutNaga(props) {
     return (
         <div>
